@@ -1,8 +1,3 @@
-# amazon_homepage_clone
-Sure! Here's a **GitHub README** version for your Amazon Clone Homepage project:
-
----
-
 # 🛒 Amazon Clone Homepage
 
 This is a simple **Amazon clone homepage** built using **HTML and CSS**. The goal was to recreate the basic look and feel of Amazon's landing page to better understand frontend web development concepts.
